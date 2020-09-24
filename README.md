@@ -17,13 +17,16 @@ Ele foi criado para ensinar e aplicar os conhecimentos sobre programação *web*
 - Inserção, manipulação, persistência e validação e refatoração de dados.
 
 ## 🛰️**Tecnologias adotadas**
-- Node.js;
-- JavaScript;
-- HTML;
-- CSS;
-- NunJucks;
-- Lite Server;
-- SQLite;
+- Node.js.
+- JavaScript.
+- HTML.
+- CSS.
+- NunJucks.
+- Lite Server.
+- SQLite.
+
+## Depêndencias
+- Node Modules.
 
 ## 📱 **Layout do Aplicativo**
 Criação das páginas: Inicial, Estudo e Dar aulas.
