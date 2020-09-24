@@ -48,13 +48,14 @@ Ao clicar em **Entrar em contato** o usuário será redirecionado a página de c
 
 Caso não encontre nenhum proffy, a página mostrará a mensagem:
 
-![](public\images\proffy-not-found.PNG)
+![](public/images/proffy-not-found.PNG)
 
 ### Página Dar aulas
-Permite que o usuário cadastre os seus dados, o preço da hora/aula, a matéria e o horário das aulas, além de adicionar mais horários disponíveis.
+Permite que o usuário cadastre: os seus dados, o preço da aula, a matéria e o horário das aulas, além de adicionar mais horários disponíveis.
 
-![](public\images\page-give-classes-your-data.PNG)
-![](public\images\page-give-classes-register.PNG)
+![](public/images/page-give-classes-your-data.PNG)
+
+![](public/images/page-give-classes-register.PNG)
 
 Depois disso, o usuário será redirecionado novamente para a página de perfil dos proffys.
 
